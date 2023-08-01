@@ -1,0 +1,19 @@
+/* .container{
+    width: 1000px;
+    margin: 0 auto;
+    border: 1px solid green;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+} */
+
+.container {
+    width: 1024px;
+    margin: 0 auto;
+  }
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  

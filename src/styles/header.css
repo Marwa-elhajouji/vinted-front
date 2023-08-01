@@ -1,0 +1,27 @@
+.element-header{
+    display: flex;
+    align-items: center;
+}
+.barre-recherche{
+    width: 40%;
+    /* border: 1px pink solid; */
+    margin: 0 auto;
+}
+.buttons{
+    display: flex;
+    gap : 10px;
+    /* height: 40px; */
+    align-items: center;
+    justify-content: center;
+    /* border: 1px solid red; */
+    
+}
+.button{
+    height: 20px;
+    /* background-color: red; */
+}
+.buttons>:last-child{
+    background-color: aqua;
+    margin-right: 10px;
+    border: none;
+}

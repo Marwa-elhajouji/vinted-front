@@ -1,0 +1,19 @@
+.container-signup{
+    width: 200px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
+form >input{
+border: none;
+border-bottom: 1px solid pink;
+margin: 10px 0}
+form >p{
+    margin: 10px 0;
+    font-size: 10px;
+}
